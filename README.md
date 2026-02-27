@@ -1,5 +1,7 @@
 # Superstore Sales Analysis Dashboard (Power BI)
 
+![Dashboard Preview](dashboard_preview.png.png)
+
 ## Project Overview
 Developed an interactive Power BI dashboard to analyze retail sales data and identify performance trends across regions and categories.
 
